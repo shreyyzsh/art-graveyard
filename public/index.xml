@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graveyard on 🦇</title>
+    <link>https://art-graveyard.vercel.app/</link>
+    <description>Recent content in Graveyard on 🦇</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://art-graveyard.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://art-graveyard.vercel.app/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://art-graveyard.vercel.app/about/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>City</title>
+      <link>https://art-graveyard.vercel.app/city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://art-graveyard.vercel.app/city/</guid>
+        <media:content url="https://art-graveyard.vercel.app/city/1892D09F-8519-4994-B07A-0A8F8E62A586_hu_db495b4fdf09a205.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://art-graveyard.vercel.app/city/1892D09F-8519-4994-B07A-0A8F8E62A586_hu_db495b4fdf09a205.JPG&quot; /&gt;
+          &lt;p&gt;Chaos of Human Civilization&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Festives</title>
+      <link>https://art-graveyard.vercel.app/festives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://art-graveyard.vercel.app/festives/</guid>
+        <media:content url="https://art-graveyard.vercel.app/festives/04F1A16F-48E9-415F-B38C-07BBEE2B38E6_hu_9dd1cbc9d37ef792.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://art-graveyard.vercel.app/festives/04F1A16F-48E9-415F-B38C-07BBEE2B38E6_hu_9dd1cbc9d37ef792.JPG&quot; /&gt;
+          &lt;p&gt;A lowly effort to capture the beauty of Indian festivals&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nature</title>
+      <link>https://art-graveyard.vercel.app/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://art-graveyard.vercel.app/nature/</guid>
+        <media:content url="https://art-graveyard.vercel.app/nature/4E1D9E08-4263-4954-A0B5-821C9BD15BDF_1_201_a_hu_1250911c6469f44c.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://art-graveyard.vercel.app/nature/4E1D9E08-4263-4954-A0B5-821C9BD15BDF_1_201_a_hu_1250911c6469f44c.JPG&quot; /&gt;
+          &lt;p&gt;Lands with nothing but grass, skies blocked by trees.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://art-graveyard.vercel.app/about/</loc>
+  </url><url>
+    <loc>https://art-graveyard.vercel.app/categories/</loc>
+  </url><url>
+    <loc>https://art-graveyard.vercel.app/city/</loc>
+  </url><url>
+    <loc>https://art-graveyard.vercel.app/festives/</loc>
+  </url><url>
+    <loc>https://art-graveyard.vercel.app/</loc>
+  </url><url>
+    <loc>https://art-graveyard.vercel.app/nature/</loc>
+  </url><url>
+    <loc>https://art-graveyard.vercel.app/tags/</loc>
+  </url>
+</urlset>
